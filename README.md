@@ -58,3 +58,12 @@ The card and category filter are generated automatically.
 ## Important GitHub video note
 
 GitHub repositories are not ideal for a very large library of MP4 files. For a small number of short compressed clips this setup is fine. If the video library grows, keep this same GitHub Pages site and move the MP4 files to a video/storage host, then replace `file:` with the public media URL.
+
+## Included match library
+This package now includes 29 Inter vs Milan defensive teaching clips in `assets/videos/`, grouped by Parts 2–8. The website supports filtering by defensive pattern and match segment. Six clips that were specifically selected as strong examples are marked **Coach Pick**.
+
+Each video card consistently contains:
+- What the sequence shows
+- What the defenders did well
+- What could be better / next focus
+- A short coaching cue
