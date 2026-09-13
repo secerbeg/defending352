@@ -133,3 +133,10 @@ code { color: #b7dcfa; background: rgba(255,255,255,.06); padding: 2px 5px; bord
 .phase-pill{display:inline-flex;align-items:center;padding:.22rem .55rem;border-radius:999px;font-size:.72rem;font-weight:800;letter-spacing:.04em;border:1px solid rgba(255,255,255,.18)}
 .phase-defend{background:rgba(34,197,94,.14);color:#b7f7c7;border-color:rgba(34,197,94,.35)}
 .phase-attack{background:rgba(59,130,246,.16);color:#bfdbfe;border-color:rgba(59,130,246,.38)}
+
+/* Center-back decision framework additions */
+.goal-box{fill:none;stroke:rgba(255,255,255,.75);stroke-width:2}
+.shot-line{fill:none;stroke:#fff;stroke-width:3;stroke-dasharray:7 6}
+.decision-framework-image{margin:34px 0 0;padding:14px;border:1px solid var(--line);border-radius:18px;background:#0b1e2c;box-shadow:var(--shadow)}
+.decision-framework-image img{width:100%;height:auto;border-radius:12px;background:#07141f}
+.decision-framework-image figcaption{padding:12px 4px 2px;color:var(--muted);font-size:.92rem}
